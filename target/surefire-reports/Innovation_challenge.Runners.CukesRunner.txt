@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Innovation_challenge.Runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in Innovation_challenge.Runners.CukesRunner
+initializationError(Innovation_challenge.Runners.CukesRunner)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalArgumentException: path must exist: /Users/aysunoksuz/IdeaProjects/InnosabiChallenge/src/test/resources/Feature
+
